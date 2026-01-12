@@ -17,6 +17,6 @@ function isLeapYear2(year){
         return true;
     }
     else {return false};
-}4
-const lipi = isLeapYear2(2024);
-console.log(lipi);
+}
+// con;st lipi = isLeapYear2(2024)
+console.log(isLeapYear2(2024));
